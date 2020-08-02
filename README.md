@@ -16,19 +16,6 @@ Topics discussed are:-
 11) [Two Dimensional Lists](https://github.com/BabaMalik/Coding-Ninjas-Introduction-to-Python/tree/master/11%20Two%20Dimensional%20Lists)
 12) [Tupples, Dictionary And Sets](https://github.com/BabaMalik/Coding-Ninjas-Introduction-to-Python/tree/master/12%20Tupples%2C%20Dictionary%20And%20Sets)
 
-__Download Jupyter notebook from here:__ https://jupyter.org/  
-__Installing Jupyter notebook:__ https://jupyter.org/install  
-If you're not comfortable with Jupyter notebooks then you can use __Repl.it (Online Editor):__ https://repl.it/languages/python3  
-
-            
-**P.S**: Refer serial wise to avoid confusion and non-understanding of topics            
-**Tip**: Change the video speed to 1.25x to save your **time**     
-
-
-## "Time is a huge huge money"
-
-
-After this course completion, I recommend to have a look on these __MIT__ lectures to get in depth knowledge of data structures and algorithms: https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
 
 
 Register the course with the following referral link to get a discount of ₹1,000/-    
